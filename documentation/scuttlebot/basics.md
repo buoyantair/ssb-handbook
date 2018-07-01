@@ -1,7 +1,7 @@
 # Scuttlebot - Basics
 
 * [Install the database](#install-the-database)
-* [Start the server](#start-the-server)
+  - [Start the server](#start-the-server)
 * [Open a client](#open-a-client)
 * [Publish a message](#publish-a-message)
 * [Read your log](#read-your-log)
@@ -20,7 +20,7 @@
 
 Install the database to your device, not to a host. Each user runs their own Scuttlebot.
 
-## Start the server
+### Start the server
 
 ```bash
   sbot server
